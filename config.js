@@ -1,0 +1,1 @@
+var song = new Audio(); song.src = 'audio/blackjack.mp3';
